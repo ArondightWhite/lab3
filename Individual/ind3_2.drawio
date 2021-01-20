@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T15:47:54.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MpEl37nyBHDPAxfWUsqK" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T15:48:05.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qVI03yNNMLtK05IkS4Kf" version="14.2.4" type="github">
   <diagram id="9DzdeQI4OaU8VTY3V2pR" name="Page-1">
     <mxGraphModel dx="1100" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RIpGj8448qTc9FRceTXj-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="637" y="520" width="30" height="30" as="geometry" />
+          <mxGeometry x="637" y="390" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RIpGj8448qTc9FRceTXj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="RIpGj8448qTc9FRceTXj-4" target="RIpGj8448qTc9FRceTXj-6">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RIpGj8448qTc9FRceTXj-23" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;Вывод S&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCFAFA;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="184" height="30" as="geometry" />
+          <mxGeometry x="560" y="330" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RIpGj8448qTc9FRceTXj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="RIpGj8448qTc9FRceTXj-26" target="RIpGj8448qTc9FRceTXj-11">
           <mxGeometry relative="1" as="geometry">
